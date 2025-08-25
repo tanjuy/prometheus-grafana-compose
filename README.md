@@ -69,4 +69,4 @@ docker compose up -d
 
 ## Belgelendirme:
 
-+ Prometheus-Grafana-Compose hakkında daha fazla bilgi almak için
++ Prometheus-Grafana-Compose hakkında daha fazla bilgi almak için [DOC.md](DOC.md) dosyasına bakınız.
